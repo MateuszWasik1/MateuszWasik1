@@ -1,4 +1,6 @@
 ### Hi there 👋
+My current stack and tools
+![github](https://user-images.githubusercontent.com/61656739/227722727-f454297c-3af9-444b-a414-1f635b6a83fc.png)
 
 <!--
 **MateuszWasik1/MateuszWasik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
